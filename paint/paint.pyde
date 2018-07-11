@@ -19,7 +19,7 @@ def draw():
     fill(0)
     rect(650, 0, 50, 800) #option box
     
-    fill
+    
     ellipse(675, 100, 45,45) 
     
     fill (255,0,0) # red color
